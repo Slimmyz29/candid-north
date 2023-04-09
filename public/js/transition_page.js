@@ -87,7 +87,7 @@ Azrael et Zayn ont ainsi fait fortune et gloire dans les bas fonds, ou leur nom 
     `,
 ];
 content_page2 = [
-    `<h3><strong>Identité</strong></h3><br><p>Nom: Gessner</p><p>Prenom: Konrad</p><br><p>Lieux de Naissance: Utopia</p><p>Date de Naissance: 13 Avril XXX</p><p>Age: 21 ans</p><br><p>Numéro D'identité: 4929 1049 6131 4085</p><p>Nombre de frère et soeurs: Fils Unique Orphelin</p><br><p>Lieux de Résidence: Trost</p><p>Evenement Notable:</p><dd> - N/A</dd><img style="width: auto; height: 30%;" src="public/img/Tampon-BS.jpg" alt=""><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
+    `<h3><strong>Mise en contexte</strong></h3><br><p>Azrael est le petit fils du grand Azrael Burmingthon le fils d'Azrael Burmighton etait un vrai salop apres etre rentrer dans les bs il a decouvert la vrai identité de sa femme...</p></dd><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
     `
     <h3><strong>Chapitre 2: évasion</strong></h3>
     <p> Le jeune garçon, s'apprête à commettre l'impensable, rendre une visite de courtoisie à son géniteur responsable de tout son malheur, il sortira de cher lui vêtue d’une tunique pauvre avec une cape de Brigade Spécial anciennement “emprunter” a son paternel avec plein de trous dont se maudit logo a été rayé une lame dans la main gauche arborant un trou dans sa garde qui devait souvent arborer un joyau. 
